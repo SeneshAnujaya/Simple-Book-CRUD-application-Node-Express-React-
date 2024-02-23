@@ -1,0 +1,19 @@
+User
+# Ignore node_modules for both backend and client
+**/node_modules/
+
+# Ignore build folders (if any)
+**/build/
+**/dist/
+
+# Ignore environment variables file (if any)
+.env
+
+# If client was created with create-react-app, it already has its own .gitignore
+# You can include it by referencing the client directory
+/client/node_modules/
+/client/build/
+/client/.env
+/client/.DS_Store
+/client/.idea/
+/client/.vscode/
