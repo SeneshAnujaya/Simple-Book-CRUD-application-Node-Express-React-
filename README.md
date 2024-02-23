@@ -1,0 +1,1 @@
+Basic CRUD application using Node.js, Express, and React & MySql. Allows users to manage books with features for creating,  updating, and deleting entries. Ideal for learning the fundamentals of full-stack development.
